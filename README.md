@@ -20,6 +20,8 @@ This report provides visual insights into market share trends and forecasts, hig
 
 ![image](https://github.com/user-attachments/assets/65947e5d-2442-45f9-b094-169b99df9a4d)
 
+image.png
+
 ## Summary
 
 This report provides visual insights into market share trends and forecasts, highlighting key data points and projections for future growth.
