@@ -22,6 +22,8 @@ This report provides visual insights into market share trends and forecasts, hig
 
 ![image](https://github.com/user-attachments/assets/10910a53-2e4a-4a94-9468-a2cbe1aed50f)
 
+# Project 2: Product Shipment Insights and Forecast for Walmart Stores in USA
+
 ![image](https://github.com/user-attachments/assets/191b8cd1-06be-48ab-a1a6-347c42e16fd0)
 
 ![image](https://github.com/user-attachments/assets/0de3ffe3-dedc-4431-97ff-12b6ea67d2d8)
