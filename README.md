@@ -20,7 +20,26 @@ This report provides visual insights into market share trends and forecasts, hig
 
 ![image](https://github.com/user-attachments/assets/65947e5d-2442-45f9-b094-169b99df9a4d)
 
-image.png
+![image](https://github.com/user-attachments/assets/10910a53-2e4a-4a94-9468-a2cbe1aed50f)
+
+![image](https://github.com/user-attachments/assets/191b8cd1-06be-48ab-a1a6-347c42e16fd0)
+
+![image](https://github.com/user-attachments/assets/0de3ffe3-dedc-4431-97ff-12b6ea67d2d8)
+
+![image](https://github.com/user-attachments/assets/b4f7e473-4a0d-4ef2-9e2b-67a2b3c056a9)
+
+![image](https://github.com/user-attachments/assets/4e9aadb1-feed-45de-827b-90ca9395af62)
+
+![image](https://github.com/user-attachments/assets/6346a1a4-0739-49e5-8730-2ad38484131f)
+
+![image](https://github.com/user-attachments/assets/e86618cf-19fa-4b49-9031-4e9670783b46)
+
+
+
+
+
+
+
 
 ## Summary
 
