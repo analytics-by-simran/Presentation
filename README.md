@@ -24,6 +24,8 @@ This report provides visual insights into market share trends and forecasts, hig
 
 # Project 2: Product Shipment Insights and Forecast for Walmart Stores in USA
 
+This report provides visual insights into SKU-DC demand and forecasts, highlighting key data points and projections for future demand planning.
+
 ![image](https://github.com/user-attachments/assets/191b8cd1-06be-48ab-a1a6-347c42e16fd0)
 
 ![image](https://github.com/user-attachments/assets/0de3ffe3-dedc-4431-97ff-12b6ea67d2d8)
@@ -34,7 +36,8 @@ This report provides visual insights into market share trends and forecasts, hig
 
 ![image](https://github.com/user-attachments/assets/6346a1a4-0739-49e5-8730-2ad38484131f)
 
-![image](https://github.com/user-attachments/assets/e86618cf-19fa-4b49-9031-4e9670783b46)
+![image](https://github.com/user-attachments/assets/81979d21-d76d-435d-bd8a-ca631133f736)
+
 
 
 
