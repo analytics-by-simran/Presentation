@@ -1,30 +1,40 @@
+![image](https://github.com/user-attachments/assets/6d892a38-317e-462a-a044-44d4ab190b10)
+
+
 # Project 1: Market Share Insights and Forecast
 
 ## Summary:
 
 This report provides visual insights into market share trends and forecasts, highlighting key data points and projections for future growth.
 
-![image](https://github.com/user-attachments/assets/69332be0-e1da-4faa-948c-093055f51cbe)
+![image](https://github.com/user-attachments/assets/b8f729db-e787-466c-b746-39649fc4f34e)
 
-![image](https://github.com/user-attachments/assets/d1bd73eb-c76c-4fa9-b54e-9b0dfbe0af07)
+![image](https://github.com/user-attachments/assets/b105b315-91f8-484b-9770-032051f52cc2)
 
-![image](https://github.com/user-attachments/assets/9638fe99-8383-445e-b7df-322130c04d0a)
+![image](https://github.com/user-attachments/assets/edd05dd9-1266-4533-97ff-74c4e9bce884)
 
-![image](https://github.com/user-attachments/assets/573fb108-18bb-4660-aecb-dea0e917ed22)
+![image](https://github.com/user-attachments/assets/ee1a14e5-0a68-410e-876e-2f8b84b8279c)
 
-![image](https://github.com/user-attachments/assets/74918582-9e0d-4200-9138-8fe61aa8df5c)
+![image](https://github.com/user-attachments/assets/9ae4d4bc-06ba-4ee7-9d78-e025fb4f080f)
 
-![image](https://github.com/user-attachments/assets/682ccdd7-b059-4be7-b1d6-42312f94a372)
+![image](https://github.com/user-attachments/assets/6f05dbed-f373-4009-9531-db405ed3b99d)
 
-![image](https://github.com/user-attachments/assets/b71ea444-46e7-4614-ae94-1d7285cc81c7)
+![image](https://github.com/user-attachments/assets/5c815b9f-3861-4460-b96a-09d8b58001fb)
 
-![image](https://github.com/user-attachments/assets/65947e5d-2442-45f9-b094-169b99df9a4d)
+![image](https://github.com/user-attachments/assets/27f9ad1c-b7a0-4601-b297-0e082ea5e3ae)
 
-![image](https://github.com/user-attachments/assets/10910a53-2e4a-4a94-9468-a2cbe1aed50f)
+![image](https://github.com/user-attachments/assets/ccd2697b-b411-49bc-87e9-0dc876ab3c55)
+
+![image](https://github.com/user-attachments/assets/ad5ca6e9-6b55-4fc5-aaad-5590f02bbaeb)
+
+![image](https://github.com/user-attachments/assets/0d5edfe1-d749-4288-ad11-ed3411301535)
+
 
 # Project 2: Product Shipment Insights and Forecast for Walmart Stores in USA
 
 This report provides visual insights into SKU-DC demand and forecasts, highlighting key data points and projections for future demand planning.
+
+
 
 ![image](https://github.com/user-attachments/assets/191b8cd1-06be-48ab-a1a6-347c42e16fd0)
 
