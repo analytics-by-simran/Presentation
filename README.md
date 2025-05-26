@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/6d892a38-317e-462a-a044-44d4ab190b10)
 
-
+# Digibiomics - Businees Insight Analyst
 # Project 1: Market Share Insights and Forecast
 
 ## Summary:
@@ -34,28 +34,57 @@ This report provides visual insights into market share trends and forecasts, hig
 
 This report provides visual insights into SKU-DC demand and forecasts, highlighting key data points and projections for future demand planning.
 
+![image](https://github.com/user-attachments/assets/2d787066-cab9-44d5-8e32-ae16b5ebb084)
+
+![image](https://github.com/user-attachments/assets/eef5ba73-cc68-4d91-92b1-69f386ff34cc)
+
+![image](https://github.com/user-attachments/assets/7964ff55-bf0d-4e34-9bbd-1da2281a1149)
+
+![image](https://github.com/user-attachments/assets/cc7fff01-7354-4927-8248-c3674aeb24f8)
+
+![image](https://github.com/user-attachments/assets/29c45deb-5f03-4c8f-94d5-1e40384038b1)
+
+![image](https://github.com/user-attachments/assets/6c1cb6ee-8523-439d-b157-7731daa63106)
 
 
-![image](https://github.com/user-attachments/assets/191b8cd1-06be-48ab-a1a6-347c42e16fd0)
+# Project 3: Credit Risk Scorecard
 
-![image](https://github.com/user-attachments/assets/0de3ffe3-dedc-4431-97ff-12b6ea67d2d8)
+![image](https://github.com/user-attachments/assets/be8c1cb4-474e-4417-8b8d-d36966eab748)
 
-![image](https://github.com/user-attachments/assets/b4f7e473-4a0d-4ef2-9e2b-67a2b3c056a9)
+![image](https://github.com/user-attachments/assets/72c187de-96a9-4c7d-b60f-84609815fa34)
 
-![image](https://github.com/user-attachments/assets/4e9aadb1-feed-45de-827b-90ca9395af62)
+![image](https://github.com/user-attachments/assets/89cb3778-ed3b-49d5-8dd0-5aa1d695208c)
 
-![image](https://github.com/user-attachments/assets/6346a1a4-0739-49e5-8730-2ad38484131f)
+# Project 4: Bank Customer Churn Analysis
 
-![image](https://github.com/user-attachments/assets/81979d21-d76d-435d-bd8a-ca631133f736)
+![image](https://github.com/user-attachments/assets/51c1f02f-6dea-4626-a758-761238044b0e)
 
+![image](https://github.com/user-attachments/assets/8b7787b3-418a-4753-bddd-48135eca9b58)
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/e243a07c-9e7a-40d4-8844-a7dca8e6da05)
 
 
+ # Sangam University - Finance and Supply Chain
+ 
+![image](https://github.com/user-attachments/assets/bfd80375-d8a5-4958-b7b2-344da774b1b8)
 
-## Summary
+![image](https://github.com/user-attachments/assets/ee967c92-6471-4478-a061-6d531fa12ac4)
 
-This report provides visual insights into market share trends and forecasts, highlighting key data points and projections for future growth.
+
+# Business Analyst Internship – Urban Company (India)
+
+![image](https://github.com/user-attachments/assets/1146e203-9af4-4971-ae46-dbc74dffa4da)
+
+![image](https://github.com/user-attachments/assets/e51ab4d2-4bdb-4274-9bbd-582e9df289c7)
+
+![image](https://github.com/user-attachments/assets/857c9e9e-6779-4ffb-9817-bb3f5c2b1227)
+
+![image](https://github.com/user-attachments/assets/a8122b4d-d3dc-48c3-9a83-8a0e1c600fc1)
+
+
+
+
+
+
+
+
