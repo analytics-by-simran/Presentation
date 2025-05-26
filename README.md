@@ -7,7 +7,7 @@
 
 This report provides visual insights into market share trends and forecasts, highlighting key data points and projections for future growth.
 
-![image](https://github.com/user-attachments/assets/a8b15c98-a874-4158-a076-c11f87eab61b)
+![image](https://github.com/user-attachments/assets/1aeb327e-63c2-4902-972f-56e23281a512)
 
 ![image](https://github.com/user-attachments/assets/b105b315-91f8-484b-9770-032051f52cc2)
 
@@ -34,7 +34,7 @@ This report provides visual insights into market share trends and forecasts, hig
 
 This report provides visual insights into SKU-DC demand and forecasts, highlighting key data points and projections for future demand planning.
 
-![image](https://github.com/user-attachments/assets/2d787066-cab9-44d5-8e32-ae16b5ebb084)
+![image](https://github.com/user-attachments/assets/f2c1de1b-c217-460f-acaa-591ce0b95ec0)
 
 ![image](https://github.com/user-attachments/assets/eef5ba73-cc68-4d91-92b1-69f386ff34cc)
 
